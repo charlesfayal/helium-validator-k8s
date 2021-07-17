@@ -5,10 +5,12 @@ cg_perf/data*
 sshpass
 keys/*
 keys.yml
+temp_auto_push.bat
 *.key
 kubectl
 kubectl.sha256
 assets/logo.psd
 snapshot.bin
 scripts/keys/*
-k8s/grafana/external-dns*
+k8s/grafana/external-dns*.gitignore
+temp_interactive_push.bat
